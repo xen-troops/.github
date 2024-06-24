@@ -60,7 +60,7 @@ All our products are based on the top of the 'xt-core' that provides base compon
 
 Base platform `xt-core` is split into hardware independent and hardware-specific parts.
 - [meta-xt-common](https://github.com/xen-troops/meta-xt-common) - hardware independent components
-- [meta-xt-rcar](https://github.com/xen-troops/meta-xt-rcar) - and platform-specific things for Renesas R-Car platform
+- [meta-xt-rcar](https://github.com/xen-troops/meta-xt-rcar) - platform-specific things for Renesas R-Car platform
 - [meta-xt-rpi5](https://github.com/xen-troops/meta-xt-rpi5) - platform-specific things for Raspberry Pi 5 platform
 
 ---
