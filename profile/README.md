@@ -28,8 +28,8 @@ We have a few actively developing public reference products:
 - ARM-TF that boots into EL2
 - Multimedia video decoding/encoding with hardware acceleration
 - SD or eMMC boot
-- Android VM support
-- Zephyr OS as guest
+- Android as a guest on the virtio-based backends
+- Linux as a guest on the virtio- and PV-based backends
 
 [meta-xt-prod-devel-rcar-gen4](https://github.com/xen-troops/meta-xt-prod-devel-rcar-gen4) for Renesas R-Car Gen4
 - Renesas R-Car Gen4
