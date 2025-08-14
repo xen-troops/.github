@@ -54,6 +54,8 @@ We have a few actively developing public reference products:
 - PV hardware backends
 - Linux, Unikraft or Zephyr as guest domain
 - OP-TEE support
+- CAN support in the driver domain
+- WiFi support
 
 ### Core components
 All our products are based on the top of the 'xt-core' that provides base components, such as backends, and pre-configuration for things like linux, u-boot, xen, ATF, qemu etc.
@@ -71,10 +73,10 @@ Products are realesed according to their road map.
 Available releases can be found at
 - [meta-xt-prod-devel-rcar](https://github.com/xen-troops/meta-xt-prod-devel-rcar/releases)
 - [meta-xt-prod-devel-rcar-gen4](https://github.com/xen-troops/meta-xt-prod-devel-rcar-gen4/releases)
-- [meta-xt-prod-devel-rpi5](https://github.com/xen-troops/meta-xt-prod-devel-rpi5/tags)
+- [meta-xt-prod-devel-rpi5](https://github.com/xen-troops/meta-xt-prod-devel-rpi5/releases)
 
 ### xt-core
 xt-core has it's own line of releases
 - [meta-xt-common](https://github.com/xen-troops/meta-xt-common/releases)
 - [meta-xt-rcar](https://github.com/xen-troops/meta-xt-rcar/releases)
-- [meta-xt-rpi5](https://github.com/xen-troops/meta-xt-rpi5/tags)
+- [meta-xt-rpi5](https://github.com/xen-troops/meta-xt-rpi5/releases)
